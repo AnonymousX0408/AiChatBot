@@ -36,7 +36,7 @@ CHATBOT_READ = f"""
 <b>||©️ @{OWNER_USERNAME}||</b>
 """
 
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{MickeyBot.name}](https://t.me/{MickeyBot.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/Xytra-zn/Chatbo)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{MickeyBot.name}](https://t.me/{MickeyBot.username}) ɪs ᴘʀɪᴠᴀᴛᴇ.**\n**ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍʏ ᴏᴡɴᴇʀ ғᴏʀ ʀᴇᴘᴏ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [ᴍʏ ᴏᴡɴᴇʀ](https://t.me/Mr_RoleXG)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/TeamCoderZ_Bot).\n<b>||©️ @{OWNER_USERNAME}||</b>"
 
 ADMIN_READ = f"sᴏᴏɴ"
 
